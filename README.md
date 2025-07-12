@@ -54,7 +54,7 @@ ProjectSphere/
 ## ⚙️ Getting Started
 
 ```bash
-git clone https://github.com/your-username/ProjectSphere.git
+git clone https://github.com/DavidCoder05/ProjectSphere.git
 cd ProjectSphere
 npm install
 npm run dev
