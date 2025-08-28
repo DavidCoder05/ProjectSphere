@@ -18,11 +18,29 @@ ProjectSphere allows students to submit their project abstracts, research papers
 
 ## 🖼️ Screenshots
 
-> Add your UI screenshots in the `screenshots/` folder and link them below
 
-| Home Page | Project Page |
-|-----------|--------------|
-| ![Homepage](screenshots/homepage.png) | ![Project](screenshots/projectpage.png) |
+### Login Page  
+![Login](screenshots/login.jpeg)
+
+---
+
+### Home Page  
+![HomePage](screenshots/home.jpeg)
+
+---
+
+### Project Page  
+![Project](screenshots/project.jpeg)
+
+---
+
+### Form  
+![Form](screenshots/form.jpeg)
+
+---
+
+### Flowchart  
+![Flowchart](screenshots/flowchart.png)
 
 ---
 
@@ -31,23 +49,7 @@ ProjectSphere allows students to submit their project abstracts, research papers
 - **Frontend**: React.js / Next.js
 - **Styling**: TailwindCSS + ShadCN UI
 - **Backend/Storage**: Supabase
-- **Auth**: Supabase Auth (if implemented)
-
----
-
-## 📁 Folder Structure
-
-ProjectSphere/
-├── components/
-├── pages/
-├── public/
-├── styles/
-├── supabase/
-├── screenshots/
-├── .env.example
-├── package.json
-└── README.md
-
+- **Auth**: Supabase Auth
 
 ---
 
@@ -58,3 +60,4 @@ git clone https://github.com/DavidCoder05/ProjectSphere.git
 cd ProjectSphere
 npm install
 npm run dev
+
